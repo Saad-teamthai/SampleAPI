@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\SampleAPI\\AngularAndAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1D16BC25-67BD-43D1-A42C-80038BD58FDD}|AngularAndAPI\\AngularAndAPI.csproj|d:\\sampleapi\\angularandapi\\angularandapi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D16BC25-67BD-43D1-A42C-80038BD58FDD}|AngularAndAPI\\AngularAndAPI.csproj|solutionrelative:angularandapi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1D16BC25-67BD-43D1-A42C-80038BD58FDD}|AngularAndAPI\\AngularAndAPI.csproj|d:\\sampleapi\\angularandapi\\angularandapi\\angularandapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{1D16BC25-67BD-43D1-A42C-80038BD58FDD}|AngularAndAPI\\AngularAndAPI.csproj|solutionrelative:angularandapi\\angularandapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
@@ -32,7 +36,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -56,7 +60,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\SampleAPI\\AngularAndAPI\\AngularAndAPI\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AngularAndAPI\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\SampleAPI\\AngularAndAPI\\AngularAndAPI\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AngularAndAPI\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAjwBgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T12:03:13.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\SampleAPI\\AngularAndAPI\\AngularAndAPI\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "AngularAndAPI\\Properties\\launchSettings.json",
@@ -68,7 +85,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "AngularAndAPI.csproj",
               "DocumentMoniker": "D:\\SampleAPI\\AngularAndAPI\\AngularAndAPI\\AngularAndAPI.csproj",
               "RelativeDocumentMoniker": "AngularAndAPI\\AngularAndAPI.csproj",
@@ -81,7 +98,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "AngularAndAPI.csproj.user",
               "DocumentMoniker": "D:\\SampleAPI\\AngularAndAPI\\AngularAndAPI\\AngularAndAPI.csproj.user",
               "RelativeDocumentMoniker": "AngularAndAPI\\AngularAndAPI.csproj.user",
@@ -93,7 +110,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Microsoft.Common.CurrentVersion.targets",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
               "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
@@ -103,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Microsoft.PackageDependencyResolution.targets",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
               "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
@@ -113,7 +130,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\SampleAPI\\AngularAndAPI\\AngularAndAPI\\Program.cs",
               "RelativeDocumentMoniker": "AngularAndAPI\\Program.cs",
@@ -121,8 +138,7 @@
               "RelativeToolTip": "AngularAndAPI\\Program.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAABwAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T06:35:14.086Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T06:35:14.086Z"
             }
           ]
         }

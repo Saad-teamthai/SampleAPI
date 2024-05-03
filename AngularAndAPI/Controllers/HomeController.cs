@@ -17,5 +17,11 @@ namespace AngularAndAPI.Controllers
             var text = JsonSerializer.Serialize("Hello World");
             return Ok(text);
         }
+
+        [HttpGet]   
+        public IActionResult LoginDetails()
+        {
+            return Ok();
+        }
     }
 }
