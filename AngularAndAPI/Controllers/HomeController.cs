@@ -23,5 +23,11 @@ namespace AngularAndAPI.Controllers
         {
             return Ok();
         }
+
+        [HttpGet]
+        public IActionResult Register()
+        {
+            return Ok();
+        }
     }
 }
