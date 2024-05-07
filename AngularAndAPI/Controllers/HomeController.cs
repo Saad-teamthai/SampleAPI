@@ -29,5 +29,11 @@ namespace AngularAndAPI.Controllers
         {
             return Ok();
         }
+
+        [HttpGet]
+        public IActionResult AccessDenied()
+        {
+            return BadRequest();
+        }
     }
 }
